@@ -1,0 +1,29 @@
+.body_background {
+background-color:cornflowerblue;
+}
+
+
+#image {
+    width:150px;
+    height:100px;
+    margin-top:150px;
+    border-radius: 360px;
+}
+
+#label {
+    background-color:white;
+    color:red;
+    width:fit-content;
+}
+
+#username {
+border-width:1px;
+border-style:solid;
+border-color: black;
+}
+
+#loginbutton {
+    background-color:green;
+    width:100px;
+    height:50px;
+}
